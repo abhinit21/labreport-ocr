@@ -1,0 +1,964 @@
+[
+    {
+      "page": 1,
+      "angle": 13.2556,
+      "width": 1254,
+      "height": 704,
+      "unit": "pixel",
+      "lines": [
+        {
+          "boundingBox": [
+            146,
+            0,
+            1234,
+            213,
+            1222,
+            274,
+            134,
+            57
+          ],
+          "text": "Nutrition Facts Amount Per Serving",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.972
+            }
+          },
+          "words": [
+            {
+              "boundingBox": [
+                145,
+                0,
+                439,
+                50,
+                427,
+                109,
+                134,
+                58
+              ],
+              "text": "Nutrition",
+              "confidence": 0.995
+            },
+            {
+              "boundingBox": [
+                475,
+                58,
+                672,
+                98,
+                661,
+                153,
+                464,
+                115
+              ],
+              "text": "Facts",
+              "confidence": 0.994
+            },
+            {
+              "boundingBox": [
+                726,
+                110,
+                920,
+                153,
+                909,
+                204,
+                715,
+                164
+              ],
+              "text": "Amount",
+              "confidence": 0.997
+            },
+            {
+              "boundingBox": [
+                931,
+                156,
+                1022,
+                177,
+                1011,
+                226,
+                919,
+                206
+              ],
+              "text": "Per",
+              "confidence": 0.998
+            },
+            {
+              "boundingBox": [
+                1033,
+                179,
+                1229,
+                227,
+                1217,
+                273,
+                1021,
+                228
+              ],
+              "text": "Serving",
+              "confidence": 0.997
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            112,
+            61,
+            597,
+            155,
+            587,
+            206,
+            102,
+            110
+          ],
+          "text": "Serving size: 1 bar (40g)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.972
+            }
+          },
+          "words": [
+            {
+              "boundingBox": [
+                114,
+                61,
+                252,
+                89,
+                241,
+                136,
+                103,
+                108
+              ],
+              "text": "Serving",
+              "confidence": 0.991
+            },
+            {
+              "boundingBox": [
+                262,
+                91,
+                359,
+                110,
+                347,
+                158,
+                250,
+                138
+              ],
+              "text": "size:",
+              "confidence": 0.998
+            },
+            {
+              "boundingBox": [
+                369,
+                112,
+                395,
+                117,
+                382,
+                165,
+                357,
+                160
+              ],
+              "text": "1",
+              "confidence": 0.998
+            },
+            {
+              "boundingBox": [
+                404,
+                118,
+                476,
+                132,
+                463,
+                182,
+                392,
+                167
+              ],
+              "text": "bar",
+              "confidence": 0.998
+            },
+            {
+              "boundingBox": [
+                485,
+                134,
+                596,
+                155,
+                583,
+                207,
+                473,
+                184
+              ],
+              "text": "(40g)",
+              "confidence": 0.991
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            82,
+            108,
+            555,
+            205,
+            544,
+            258,
+            71,
+            162
+          ],
+          "text": "Serving Per Package: 4",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.972
+            }
+          },
+          "words": [
+            {
+              "boundingBox": [
+                84,
+                108,
+                226,
+                139,
+                213,
+                192,
+                71,
+                161
+              ],
+              "text": "Serving",
+              "confidence": 0.997
+            },
+            {
+              "boundingBox": [
+                236,
+                141,
+                302,
+                155,
+                290,
+                208,
+                224,
+                194
+              ],
+              "text": "Per",
+              "confidence": 0.998
+            },
+            {
+              "boundingBox": [
+                313,
+                157,
+                508,
+                197,
+                496,
+                249,
+                300,
+                210
+              ],
+              "text": "Package:",
+              "confidence": 0.996
+            },
+            {
+              "boundingBox": [
+                519,
+                199,
+                549,
+                205,
+                537,
+                257,
+                506,
+                251
+              ],
+              "text": "4",
+              "confidence": 0.998
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            686,
+            216,
+            998,
+            288,
+            988,
+            332,
+            676,
+            257
+          ],
+          "text": "Total Fat 13g",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.972
+            }
+          },
+          "words": [
+            {
+              "boundingBox": [
+                686,
+                216,
+                808,
+                243,
+                797,
+                285,
+                676,
+                258
+              ],
+              "text": "Total",
+              "confidence": 0.994
+            },
+            {
+              "boundingBox": [
+                816,
+                245,
+                898,
+                265,
+                887,
+                307,
+                806,
+                287
+              ],
+              "text": "Fat",
+              "confidence": 0.998
+            },
+            {
+              "boundingBox": [
+                915,
+                269,
+                992,
+                289,
+                981,
+                331,
+                905,
+                311
+              ],
+              "text": "13g",
+              "confidence": 0.998
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            695,
+            299,
+            1120,
+            395,
+            1107,
+            449,
+            683,
+            348
+          ],
+          "text": "Saturated Fat 1.5g",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.972
+            }
+          },
+          "words": [
+            {
+              "boundingBox": [
+                696,
+                299,
+                908,
+                345,
+                894,
+                393,
+                683,
+                344
+              ],
+              "text": "Saturated",
+              "confidence": 0.993
+            },
+            {
+              "boundingBox": [
+                921,
+                349,
+                1002,
+                367,
+                988,
+                418,
+                908,
+                397
+              ],
+              "text": "Fat",
+              "confidence": 0.998
+            },
+            {
+              "boundingBox": [
+                1012,
+                369,
+                1111,
+                393,
+                1096,
+                448,
+                998,
+                420
+              ],
+              "text": "1.5g",
+              "confidence": 0.98
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            25,
+            217,
+            484,
+            314,
+            474,
+            359,
+            15,
+            258
+          ],
+          "text": "Amount Per Serving",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.972
+            }
+          },
+          "words": [
+            {
+              "boundingBox": [
+                27,
+                218,
+                203,
+                252,
+                192,
+                293,
+                17,
+                257
+              ],
+              "text": "Amount",
+              "confidence": 0.997
+            },
+            {
+              "boundingBox": [
+                211,
+                254,
+                293,
+                272,
+                281,
+                313,
+                200,
+                295
+              ],
+              "text": "Per",
+              "confidence": 0.998
+            },
+            {
+              "boundingBox": [
+                304,
+                274,
+                480,
+                317,
+                468,
+                359,
+                293,
+                316
+              ],
+              "text": "Serving",
+              "confidence": 0.994
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            669,
+            371,
+            952,
+            439,
+            941,
+            483,
+            659,
+            412
+          ],
+          "text": "Trans Fat 0g",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.972
+            }
+          },
+          "words": [
+            {
+              "boundingBox": [
+                670,
+                372,
+                787,
+                398,
+                776,
+                440,
+                659,
+                412
+              ],
+              "text": "Trans",
+              "confidence": 0.993
+            },
+            {
+              "boundingBox": [
+                802,
+                402,
+                879,
+                422,
+                866,
+                464,
+                790,
+                444
+              ],
+              "text": "Fat",
+              "confidence": 0.998
+            },
+            {
+              "boundingBox": [
+                887,
+                424,
+                944,
+                440,
+                931,
+                482,
+                874,
+                466
+              ],
+              "text": "0g",
+              "confidence": 0.895
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            12,
+            295,
+            267,
+            349,
+            257,
+            397,
+            2,
+            343
+          ],
+          "text": "alories 190",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.972
+            }
+          },
+          "words": [
+            {
+              "boundingBox": [
+                15,
+                296,
+                168,
+                329,
+                156,
+                375,
+                5,
+                344
+              ],
+              "text": "alories",
+              "confidence": 0.994
+            },
+            {
+              "boundingBox": [
+                184,
+                333,
+                264,
+                350,
+                250,
+                397,
+                172,
+                378
+              ],
+              "text": "190",
+              "confidence": 0.998
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            595,
+            429,
+            1005,
+            528,
+            992,
+            581,
+            583,
+            478
+          ],
+          "text": "Cholesterol 0mg",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.972
+            }
+          },
+          "words": [
+            {
+              "boundingBox": [
+                594,
+                429,
+                884,
+                498,
+                871,
+                548,
+                583,
+                476
+              ],
+              "text": "Cholesterol",
+              "confidence": 0.994
+            },
+            {
+              "boundingBox": [
+                894,
+                500,
+                1000,
+                527,
+                985,
+                580,
+                880,
+                551
+              ],
+              "text": "0mg",
+              "confidence": 0.641
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            1,
+            376,
+            397,
+            463,
+            386,
+            511,
+            0,
+            421
+          ],
+          "text": "ories from Fat 110",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.972
+            }
+          },
+          "words": [
+            {
+              "boundingBox": [
+                3,
+                377,
+                101,
+                397,
+                97,
+                446,
+                2,
+                425
+              ],
+              "text": "ories",
+              "confidence": 0.994
+            },
+            {
+              "boundingBox": [
+                110,
+                399,
+                198,
+                418,
+                191,
+                467,
+                106,
+                448
+              ],
+              "text": "from",
+              "confidence": 0.989
+            },
+            {
+              "boundingBox": [
+                224,
+                423,
+                302,
+                442,
+                292,
+                490,
+                216,
+                473
+              ],
+              "text": "Fat",
+              "confidence": 0.998
+            },
+            {
+              "boundingBox": [
+                312,
+                444,
+                392,
+                464,
+                379,
+                511,
+                301,
+                493
+              ],
+              "text": "110",
+              "confidence": 0.998
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            561,
+            502,
+            910,
+            589,
+            897,
+            640,
+            548,
+            550
+          ],
+          "text": "Sodium 20mg",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.972
+            }
+          },
+          "words": [
+            {
+              "boundingBox": [
+                560,
+                503,
+                731,
+                543,
+                718,
+                591,
+                549,
+                549
+              ],
+              "text": "Sodium",
+              "confidence": 0.997
+            },
+            {
+              "boundingBox": [
+                770,
+                553,
+                905,
+                590,
+                891,
+                640,
+                757,
+                602
+              ],
+              "text": "20mg",
+              "confidence": 0.99
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            10,
+            479,
+            461,
+            587,
+            452,
+            624,
+            1,
+            518
+          ],
+          "text": "nt Daily Values are based on",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.972
+            }
+          },
+          "words": [
+            {
+              "boundingBox": [
+                11,
+                480,
+                35,
+                486,
+                25,
+                524,
+                1,
+                519
+              ],
+              "text": "nt",
+              "confidence": 0.991
+            },
+            {
+              "boundingBox": [
+                42,
+                487,
+                121,
+                506,
+                111,
+                545,
+                33,
+                526
+              ],
+              "text": "Daily",
+              "confidence": 0.998
+            },
+            {
+              "boundingBox": [
+                128,
+                508,
+                233,
+                533,
+                224,
+                572,
+                119,
+                547
+              ],
+              "text": "Values",
+              "confidence": 0.997
+            },
+            {
+              "boundingBox": [
+                241,
+                535,
+                295,
+                549,
+                286,
+                586,
+                232,
+                574
+              ],
+              "text": "are",
+              "confidence": 0.998
+            },
+            {
+              "boundingBox": [
+                302,
+                551,
+                405,
+                576,
+                396,
+                611,
+                293,
+                588
+              ],
+              "text": "based",
+              "confidence": 0.998
+            },
+            {
+              "boundingBox": [
+                413,
+                578,
+                456,
+                589,
+                447,
+                622,
+                404,
+                613
+              ],
+              "text": "on",
+              "confidence": 0.998
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            527,
+            599,
+            774,
+            658,
+            766,
+            700,
+            517,
+            642
+          ],
+          "text": "Vitamin A 50%",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.972
+            }
+          },
+          "words": [
+            {
+              "boundingBox": [
+                529,
+                599,
+                648,
+                629,
+                639,
+                673,
+                517,
+                642
+              ],
+              "text": "Vitamin",
+              "confidence": 0.966
+            },
+            {
+              "boundingBox": [
+                657,
+                631,
+                681,
+                637,
+                672,
+                680,
+                647,
+                674
+              ],
+              "text": "A",
+              "confidence": 0.996
+            },
+            {
+              "boundingBox": [
+                690,
+                639,
+                772,
+                658,
+                765,
+                700,
+                681,
+                682
+              ],
+              "text": "50%",
+              "confidence": 0.962
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            12,
+            535,
+            194,
+            578,
+            186,
+            614,
+            3,
+            571
+          ],
+          "text": "calorie diet.",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.972
+            }
+          },
+          "words": [
+            {
+              "boundingBox": [
+                12,
+                536,
+                118,
+                561,
+                109,
+                597,
+                4,
+                572
+              ],
+              "text": "calorie",
+              "confidence": 0.994
+            },
+            {
+              "boundingBox": [
+                125,
+                563,
+                193,
+                580,
+                184,
+                614,
+                117,
+                598
+              ],
+              "text": "diet.",
+              "confidence": 0.966
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

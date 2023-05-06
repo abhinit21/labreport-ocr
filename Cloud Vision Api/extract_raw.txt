@@ -1,0 +1,66 @@
+Name
+MRN
+GOPALAN A KS
+YESH-0000028884
+Lab No
+Referred By Deepak CJ
+Y001534995
+Test Name
+KIDNEY FUNCTION TESTS (Serum)
+SODIUM, SERUM
+UREA
+POTASSIUM, SERUM
+CHLORIDE, SERUM
+CREATININE, SERUM
+BICARBONATE, SERUM
+COLUMBIA ASIA
+Processed by:- PREMA.N
+Result
+LABORATORY REPORT
+Age
+Visit No
+137 mmol/L
+59 mg/dl
+4.46 mmol/L
+108 mmol/L
+Report Printed On: 14/10/2020 12:18PM
+1.80 mg/dl
+Collected On 11/10/2020 9:43AM Received On 11/10/2020 9:57AM
+Reported On 11/10/2020 2:28PM
+22.9 mmol/L
+77y 11m 20d
+**********
+A0000000005-YESH
+Criticality
+Biological
+Factor Reference Interval
+136 144 rnmol/L
+Gender
+3.65.1 mmol/L
+101 111 mmol/L
+1.7 - 43 mg/dl
+0.8 -1.3 mg/dl
+23 - 29 mmol/L
+END OF REPORT
+MALE
+Test Method
+ISE Indirect
+ISE Indirect
+ISE Indirect
+Urease calculated
+Jaffe rate-IDMS
+Standardization
+ISE Indirect
+Bulbarnin
+Dr. Jayashree D. Kulkarni
+MD Pathology
+Consultant Pathologist
+COLUMBIA ASIA REFERRAL HOSPITAL-YESHWANTHPUR
+(a unit of Columbia Asia Hospitals Private Limited)
+Hospital Address : 26/4, Brigade Gateway, Beside Metro, Malleswaram West, Bangalore-560 055
+Regd. Office address: The Icon, #8, 80 Feet Road, HAL III Stage, Indiranagar, Bangalore-560 075
+Phone : 080-6165 6262, Emergency: 080 - 6741 6262, website: www.india.columbiaasia.com
+CIN: U85110KA2003PTC033055.
+This report is subject to the terms and conditions mentioned overleaf
+Page 2 of 2
+CA LAB-02-V1.0-JAN 12

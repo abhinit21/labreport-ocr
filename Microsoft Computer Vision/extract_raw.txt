@@ -1,0 +1,14 @@
+NutritionFactsAmountPerServing
+Servingsize:1bar(40g)
+ServingPerPackage:4
+TotalFat13g
+SaturatedFat1.5g
+AmountPerServing
+TransFat0g
+alories190
+Cholesterol0mg
+oriesfromFat110
+Sodium20mg
+ntDailyValuesarebasedon
+VitaminA50%
+caloriediet.
