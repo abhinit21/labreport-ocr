@@ -1,0 +1,37 @@
+Amount
+Tax Amount
+Date
+Merchant
+Address
+Product Line
+Items
+2020-11-10T12:00:00Z
+COLUMBIA ASIA REFERRAL HOSPITAL-YESHWANTHPUR
+Brigade Gateway Road, Rajaji Nagar, Bangalore, Bengaluru,
+Karnataka, 560010
+Name
+SODIUM, SERUM
+POTASSIUM, SERUM
+CHLORIDE, SERUM
+UREA
+CREATININE, SERUM
+BICARBONATE, SERUM
+Quantity Unit Price Total Price
+137
+137
+4.46
+4.46
+108
+59
+1.8
+22.9
+1
+1
+1
+1
+1
+1
+108
+59
+1.8
+22.9
